@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=800&height=120&lines=Hi+I'm+Pranshu+Singh;Web+Devloper;CSE+Student)](https://git.io/typing-svg)
-                                                                                                                                                                                                       # 💫 About Me:
+# 💫 About Me:
 🔭 Currently working on DSA, Git and Git-hub<br>👯 Looking to collaborate on AI, open source project<br>🌱 Currently learning Python and DSA<br>⚡ Goal: To become an AI Engg.
 
 
