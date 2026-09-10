@@ -1,19 +1,98 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=800&height=120&lines=Hi+I'm+Pranshu+Singh;Web+Devloper;CSE+Student)](https://git.io/typing-svg)
-# 💫 About Me:
-🔭 Currently working on DSA, Git and Git-hub<br>👯 Looking to collaborate on AI, open source project<br>🌱 Currently learning Python and DSA<br>⚡ Goal: To become an AI Engg.
+<div align="center">
 
+# 👋 Hi, I'm Pranshu Kumar Singh
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pranshu-kumar-singh-aa593b275) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ps859521@gmail.com) 
+### 💻 Passionate Developer | 🚀 Problem Solver | 📚 Lifelong Learner
 
-# 💻 Tech Stack:
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Pranshu250499&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Pranshu250499&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Pranshu250499&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[![GitHub](https://img.shields.io/badge/GitHub-Pranshu250499-181717?style=for-the-badge&logo=github)](https://github.com/Pranshu250499)
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Pranshu250499&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
+
+- 💻 Currently working on **DSA, Git & GitHub**
+- 🌱 Currently learning **Python and Data Structures & Algorithms**
+- 🤖 Interested in **Artificial Intelligence and Software Development**
+- 🔨 I enjoy turning ideas into practical projects
+- 📚 Always learning something new and improving my skills
+- 🎯 Goal: Become an **AI Engineer**
+
+---
+
+## 🛠️ Tech Stack
+
+### Programming Languages
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Tools & Technologies
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+---
+
+## 📌 Featured Projects
+
+### 🤖 AI Data Detective
+An AI/data-focused project exploring data analysis and intelligent solutions.
+
+### 🛒 E-Commerce Project
+A web-based e-commerce project focused on building practical shopping functionality.
+
+### 🌐 Personal Portfolio
+My personal developer portfolio showcasing my work, skills and projects.
+
+### 🧮 Calculator
+A simple calculator project built to practice programming and user interaction.
+
+---
+
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Pranshu250499&theme=github_dark)
+
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pranshu250499&theme=github_dark)
+
+</div>
+
+---
+
+## 🔥 My Developer Journey
+
+```text
+🎓 Learning
+   ↓
+💻 Coding
+   ↓
+🧠 Solving Problems
+   ↓
+🚀 Building Projects
+   ↓
+🌱 Improving Every Day
+
+## 📫 Connect With Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-Pranshu250499-181717?style=for-the-badge&logo=github)](https://github.com/Pranshu250499)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranshu-kumar-singh-aa593b275/)
+
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ps859521@gmail.com)
+
+</div>
+💙 Thanks for visiting my profile!
+
+```text
+CODE  →  LEARN  →  BUILD  →  IMPROVE  →  GROW
