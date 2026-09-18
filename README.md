@@ -93,6 +93,12 @@ A simple calculator project built to practice programming and user interaction.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranshu-kumar-singh-aa593b275/)
 
+## 📫 Connect With Me
+
+🔗 GitHub: https://github.com/Pranshu250499
+
+🔗 LinkedIn: https://www.linkedin.com/in/pranshu-kumar-singh-aa593b275/
+
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ps859521@gmail.com)
 
 </div>
