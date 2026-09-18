@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./github-poster.png" alt="Pranshu Kumar Singh - GitHub Profile" width="100%">
+</p>
+
 <div align="center">
 
 # 👋 Hi, I'm Pranshu Kumar Singh
