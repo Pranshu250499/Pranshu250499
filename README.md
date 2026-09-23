@@ -1,4 +1,4 @@
-<img src="./assets/github-poster.png" width="100%">
+<img src="./assets/github.png" width="100%">
 
 # 👋 Hi, I'm Pranshu Kumar Singh
 
