@@ -1,9 +1,4 @@
-<h1 align="center">👋 Hi, I'm Pranshu Kumar Singh</h1>
-
-<h3 align="center">
-💻 Passionate Developer | 🚀 Problem Solver | 📚 Lifelong Learner
-</h3>
-<div align="center">
+<img src="./assets/github-poster.png" width="100%">
 
 # 👋 Hi, I'm Pranshu Kumar Singh
 
