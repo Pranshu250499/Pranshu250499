@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./poster.png" alt="Pranshu Kumar Singh GitHub Profile" width="100%">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pranshu250499&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 </p>
 
 <div align="center">
