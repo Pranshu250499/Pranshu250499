@@ -1,7 +1,8 @@
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pranshu250499&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
-</p>
+<h1 align="center">👋 Hi, I'm Pranshu Kumar Singh</h1>
 
+<h3 align="center">
+💻 Passionate Developer | 🚀 Problem Solver | 📚 Lifelong Learner
+</h3>
 <div align="center">
 
 # 👋 Hi, I'm Pranshu Kumar Singh
