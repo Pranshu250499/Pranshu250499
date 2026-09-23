@@ -8,7 +8,7 @@
 
 ### 💻 Passionate Developer | 🚀 Problem Solver | 📚 Lifelong Learner
 
-[![GitHub](https://img.shields.io/badge/GitHub-Pranshu250499-181717?style=for-the-badge&logo=github)](https://github.com/Pranshu250499)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&cache_seconds=86400)
 
 </div>
 
